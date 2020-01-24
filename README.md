@@ -1,2 +1,3 @@
 # Code-Resources
-code resources
+
+* A collection of code files/snippets from https://www.dezyre.com/
